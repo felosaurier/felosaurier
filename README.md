@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @felosaurier
+- 👋 Hi, I’m felix
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning: C#, SQL, ...
-- 📫 How to reach me: insta: @felosaurier
+- 🌱 I’m currently learning: C#, SQL, Python
+- 📫 How to reach me: insta: @felix.horngacher
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i hate programming
 
